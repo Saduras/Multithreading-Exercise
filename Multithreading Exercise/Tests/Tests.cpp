@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
 
-#include "../Multithreading Exercise/src/Parallel.h"
+#include "Parallel.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
